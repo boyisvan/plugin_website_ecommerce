@@ -1,0 +1,128 @@
+[17-Jan-2025 13:29:46 UTC] PHP Warning:  parse_ini_file(database_config.ini): Failed to open stream: No such file or directory in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 7
+[17-Jan-2025 13:29:46 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:29:46 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:29:46 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:29:46 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:29:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php:8
+Stack trace:
+#0 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php(8): mysqli->__construct()
+#1 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php(55): systemConfig->connectDB()
+#2 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/list.php(3): require_once('/home/reebedoc/...')
+#3 {main}
+  thrown in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:35:15 UTC] PHP Warning:  parse_ini_file(database_config.ini): Failed to open stream: No such file or directory in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 7
+[17-Jan-2025 13:35:15 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:35:15 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:35:15 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:35:15 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:35:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php:8
+Stack trace:
+#0 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php(8): mysqli->__construct()
+#1 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php(55): systemConfig->connectDB()
+#2 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/list.php(3): require_once('/home/reebedoc/...')
+#3 {main}
+  thrown in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:40:43 UTC] PHP Warning:  parse_ini_file(database_config.ini): Failed to open stream: No such file or directory in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 7
+[17-Jan-2025 13:40:43 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:40:43 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:40:43 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:40:43 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:40:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php:8
+Stack trace:
+#0 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php(8): mysqli->__construct()
+#1 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php(55): systemConfig->connectDB()
+#2 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/list.php(3): require_once('/home/reebedoc/...')
+#3 {main}
+  thrown in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:46:11 UTC] PHP Warning:  parse_ini_file(database_config.ini): Failed to open stream: No such file or directory in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 7
+[17-Jan-2025 13:46:11 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:46:11 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:46:11 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:46:11 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:46:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php:8
+Stack trace:
+#0 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php(8): mysqli->__construct()
+#1 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php(55): systemConfig->connectDB()
+#2 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/list.php(3): require_once('/home/reebedoc/...')
+#3 {main}
+  thrown in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:50:24 UTC] PHP Warning:  parse_ini_file(database_config.ini): Failed to open stream: No such file or directory in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 7
+[17-Jan-2025 13:50:24 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:50:24 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:50:24 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:50:24 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:50:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php:8
+Stack trace:
+#0 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php(8): mysqli->__construct()
+#1 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php(55): systemConfig->connectDB()
+#2 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/list.php(3): require_once('/home/reebedoc/...')
+#3 {main}
+  thrown in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:50:36 UTC] PHP Warning:  parse_ini_file(database_config.ini): Failed to open stream: No such file or directory in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 7
+[17-Jan-2025 13:50:36 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:50:36 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:50:36 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:50:36 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:50:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php:8
+Stack trace:
+#0 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php(8): mysqli->__construct()
+#1 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php(55): systemConfig->connectDB()
+#2 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/list.php(3): require_once('/home/reebedoc/...')
+#3 {main}
+  thrown in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:53:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Deadlock found when trying to get lock; try restarting transaction in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php:330
+Stack trace:
+#0 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php(330): mysqli->query()
+#1 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/create.php(86): create_database->create_variant_to_database()
+#2 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/create.php(196): create->create_product_bulk()
+#3 {main}
+  thrown in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php on line 330
+[17-Jan-2025 13:59:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Deadlock found when trying to get lock; try restarting transaction in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php:330
+Stack trace:
+#0 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php(330): mysqli->query()
+#1 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/create.php(86): create_database->create_variant_to_database()
+#2 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/create.php(196): create->create_product_bulk()
+#3 {main}
+  thrown in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php on line 330
+[17-Jan-2025 14:12:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Deadlock found when trying to get lock; try restarting transaction in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php:330
+Stack trace:
+#0 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php(330): mysqli->query()
+#1 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/create.php(86): create_database->create_variant_to_database()
+#2 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/create.php(196): create->create_product_bulk()
+#3 {main}
+  thrown in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php on line 330
+[17-Jan-2025 14:15:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Deadlock found when trying to get lock; try restarting transaction in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php:330
+Stack trace:
+#0 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php(330): mysqli->query()
+#1 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/create.php(86): create_database->create_variant_to_database()
+#2 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/create.php(196): create->create_product_bulk()
+#3 {main}
+  thrown in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php on line 330
+[17-Jan-2025 15:03:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Deadlock found when trying to get lock; try restarting transaction in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php:330
+Stack trace:
+#0 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php(330): mysqli->query()
+#1 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/create.php(86): create_database->create_variant_to_database()
+#2 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/create.php(196): create->create_product_bulk()
+#3 {main}
+  thrown in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php on line 330
+[17-Jan-2025 15:06:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Deadlock found when trying to get lock; try restarting transaction in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php:330
+Stack trace:
+#0 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php(330): mysqli->query()
+#1 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/create.php(86): create_database->create_variant_to_database()
+#2 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/create.php(196): create->create_product_bulk()
+#3 {main}
+  thrown in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php on line 330
+[17-Jan-2025 15:09:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Deadlock found when trying to get lock; try restarting transaction in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php:330
+Stack trace:
+#0 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php(330): mysqli->query()
+#1 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/create.php(86): create_database->create_variant_to_database()
+#2 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/create.php(196): create->create_product_bulk()
+#3 {main}
+  thrown in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php on line 330
+[17-Jan-2025 15:11:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Deadlock found when trying to get lock; try restarting transaction in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php:330
+Stack trace:
+#0 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php(330): mysqli->query()
+#1 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/create.php(86): create_database->create_variant_to_database()
+#2 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/create.php(196): create->create_product_bulk()
+#3 {main}
+  thrown in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/product/database/create_database.php on line 330

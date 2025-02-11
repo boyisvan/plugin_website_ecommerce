@@ -1,0 +1,12 @@
+[17-Jan-2025 13:50:28 UTC] PHP Warning:  parse_ini_file(database_config.ini): Failed to open stream: No such file or directory in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 7
+[17-Jan-2025 13:50:28 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:50:28 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:50:28 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:50:28 UTC] PHP Warning:  Trying to access array offset on false in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
+[17-Jan-2025 13:50:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php:8
+Stack trace:
+#0 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php(8): mysqli->__construct()
+#1 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php(55): systemConfig->connectDB()
+#2 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/term/list.php(3): require_once('/home/reebedoc/...')
+#3 {main}
+  thrown in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8

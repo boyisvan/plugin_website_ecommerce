@@ -1,0 +1,7 @@
+[28-Jan-2025 03:31:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php:8
+Stack trace:
+#0 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php(8): mysqli->__construct()
+#1 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php(55): systemConfig->connectDB()
+#2 /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/api/order/list.php(3): require_once('/home/reebedoc/...')
+#3 {main}
+  thrown in /home/reebedoc/public_html/wp-content/plugins/22D8T7AIBQMB/config/systemConfig.php on line 8
